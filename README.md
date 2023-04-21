@@ -1,5 +1,5 @@
 ### Hola, mi nombre es Nicolás Córdoba 👋
-Soy estudiante de programación FullStack.
+<br>Soy estudiante de programación FullStack.<br/>
 🌱Actualmente me encuentro cursando en la academia Rolling Code School y en busqueda de mi primer trabajo en el mundo IT.
 🔭Estoy aprendiendo Javascript, React, Node.js, Express y MongoDB.
 📫Puedes contactarme a: ncr994@gmail.com 
