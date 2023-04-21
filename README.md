@@ -1,8 +1,8 @@
 ### Hola, mi nombre es Nicolás Córdoba 👋
 <br>Soy estudiante de programación FullStack.<br/>
-🌱Actualmente me encuentro cursando en la academia Rolling Code School y en busqueda de mi primer trabajo en el mundo IT.
-🔭Estoy aprendiendo Javascript, React, Node.js, Express y MongoDB.
-📫Puedes contactarme a: ncr994@gmail.com 
+<br>🌱Actualmente me encuentro cursando en la academia Rolling Code School y en busqueda de mi primer trabajo en el mundo IT.<br/>
+<br>🔭Estoy aprendiendo Javascript, React, Node.js, Express y MongoDB.<br/>
+<br>📫Puedes contactarme a: ncr994@gmail.com. <br/>
 <!--
 **NicoCordobaDev/NicoCordobaDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
